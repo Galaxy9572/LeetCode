@@ -1,6 +1,6 @@
 import java.util
 
-object ReverseString {
+object org.jy.ReverseString {
 
   def reverseString(s: String): String = {
     if (s == null || "" == s) return s

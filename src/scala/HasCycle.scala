@@ -1,9 +1,9 @@
-object HasCycle {
-    def hasCycle(head: ListNode): Unit = {
+object org.jy.HasCycle {
+    def hasCycle(head: org.jy.ListNode): Unit = {
 
     }
 }
 
-class ListNode(value: Int, next: ListNode) {
+class org.jy.ListNode(value: Int, next: org.jy.ListNode) {
 
 }

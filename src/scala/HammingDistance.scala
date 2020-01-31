@@ -1,4 +1,4 @@
-object HammingDistance {
+object org.jy.HammingDistance {
 
   def hammingDistance(x: Int, y: Int): Int = {
     if (x == y) {

@@ -2,7 +2,7 @@ import java.util
 
 import scala.collection.mutable
 
-object IsBracketsValid {
+object org.jy.IsBracketsValid {
   def isValid(s: String): Boolean = {
     if (s == null || s.length % 2 != 0) return false
     else if (s.length == 0) return true

@@ -1,4 +1,4 @@
-object Transpose {
+object org.jy.Transpose {
 
   def transpose(A: Array[Array[Int]]): Array[Array[Int]] = {
     val R = A.length

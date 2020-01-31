@@ -1,4 +1,4 @@
-object ToLowerCase {
+object org.jy.ToLowerCase {
   def toLowerCase(str: String): String = {
     if (str == null || str.length == 0) return str
     val chars = str.toCharArray

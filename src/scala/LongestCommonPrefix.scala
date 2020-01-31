@@ -1,4 +1,4 @@
-object LongestCommonPrefix {
+object org.jy.LongestCommonPrefix {
   def longestCommonPrefix(strs: String*): String = {
     if (strs == null || strs.isEmpty) return ""
     var shortestLength = strs(0).length

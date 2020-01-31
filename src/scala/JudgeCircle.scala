@@ -1,4 +1,4 @@
-object JudgeCircle {
+object org.jy.JudgeCircle {
 
   def judgeCircle(moves: String): Boolean = {
     if (moves == null || moves.length == 0) return true

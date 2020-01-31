@@ -1,4 +1,4 @@
-object Palindrome {
+object org.jy.Palindrome {
   def isPalindrome(x: Int): Boolean = {
     val isPalindrome = {
       if (x == 0) {

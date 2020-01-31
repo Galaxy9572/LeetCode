@@ -1,6 +1,6 @@
 import scala.collection.mutable
 
-object UniqueMorseRepresentations {
+object org.jy.UniqueMorseRepresentations {
 
   def uniqueMorseRepresentations(words: Array[String]): Int = {
     if (words == null || words.length == 0) return 0

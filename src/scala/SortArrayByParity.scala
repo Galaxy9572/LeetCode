@@ -1,5 +1,5 @@
 
-object SortArrayByParity {
+object org.jy.SortArrayByParity {
 
   def sortArrayByParity(A: Array[Int]): Array[Int] = {
     var start = 0

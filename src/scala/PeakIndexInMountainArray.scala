@@ -1,4 +1,4 @@
-object PeakIndexInMountainArray {
+object org.jy.PeakIndexInMountainArray {
 
   def peakIndexInMountainArray(A: Array[Int]): Int = {
     for (i <- A.indices) {

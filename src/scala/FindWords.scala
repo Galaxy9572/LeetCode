@@ -1,6 +1,6 @@
 import java.util
 
-object FindWords {
+object org.jy.FindWords {
 
   def findWords(words: Array[String]): Array[String] = {
     val map: Map[Char,Int] = Map[Char,Int]('q'-> 1, 'w'-> 1, 'e'-> 1, 'r'-> 1, 't'-> 1, 'y'-> 1, 'u'-> 1, 'i'-> 1, 'o'-> 1, 'p'-> 1,
